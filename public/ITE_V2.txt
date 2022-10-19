@@ -1,0 +1,41 @@
+C
+command;subGroup;itemCategory;description;alternativeIdentifier;active;CF_equipamento;CF_LOCAL;CF_LOCAL_DO_ITEM;CF_Periodo;CF_TAG;CF_AREA;CF_tipo_eq
+I;Ancoragem;Civil;Ancoragem;DSDAnc2_A;1;Ancoragem;Cobertura;dsd;A;DSDAnc2_A;Cobertura;Ancoragem
+I;Barrilete;Hidráulica;Barrilete;DSDBar3_M;1;Barrilete;Barrilete;dsd;M;DSDBar3_M;Barrilete;Barrilete
+I;Bombas de água e esgoto;Hidráulica;Bomba Esgoto 1;DSDBom4_M;1;Bombas de água e esgoto;3º Subsolo;dsd;M;DSDBom4_M;3º Subsolo;Bombas de água e esgoto
+I;Bombas de incêndio;Incêndio;Bomba Jockey;DSDBom5_M;1;Bombas de incêndio;Barrilete;dsd;M;DSDBom5_M;Barrilete;Bombas de incêndio
+I;Casa de Máquinas;Elevadores;Casa de Máquinas elevadores;DSDCas6_M;1;Casa de Máquinas;Cobertura;dsd;M;DSDCas6_M;Cobertura;Casa de Máquinas
+I;Catracas;automacao;Porta 1 Subsolo;DSDPor7_M;1;Catracas;1º Subsolo;dsd;M;DSDPor7_M;1º Subsolo;Catracas
+I;Dedetização e desratização;Civil;Dedetização e desratização;DSDDed8_A;1;Dedetização e desratização;Geral;dsd;A;DSDDed8_A;Geral;Dedetização e desratização
+I;Elevadores;Elevadores;Elevador A;DSDEle9_M;1;Elevadores;Geral;dsd;M;DSDEle9_M;Geral;Elevadores
+I;Esquadrias;Civil;Esquadrias;DSDEsq10_A;1;Esquadrias;Geral;dsd;A;DSDEsq10_A;Geral;Esquadrias
+I;Ventiladores e Exaustores;Ventilação;Exaustor Subsolo A;DSDExa11_M;1;Ventiladores e Exaustores;3º Subsolo;dsd;M;DSDExa11_M;3º Subsolo;Ventiladores e Exaustores
+I;Extintores;Incêndio;Extintores;DSDExt12_A;1;Extintores;Geral;dsd;A;DSDExt12_A;Geral;Extintores
+I;Grupo Gerador;Eletrica;Gerador Área Comum;DSDGer13_A;1;Grupo Gerador;1º Subsolo;dsd;A;DSDGer13_A;1º Subsolo;Grupo Gerador
+I;Iluminação de emergência;Incêndio;Iluminação de Emergência;DSDIlu14_B;1;Iluminação de emergência;Geral;dsd;B;DSDIlu14_B;Geral;Iluminação de emergência
+I;Impermeabilização;Civil;Impermeabilização;DSDImp15_A;1;Impermeabilização;Geral;dsd;A;DSDImp15_A;Geral;Impermeabilização
+I;Jardim;Jardim;Jardim;DSDJar16_M;1;Jardim;Térreo;dsd;M;DSDJar16_M;Térreo;Jardim
+I;Limpeza Fachada;Civil;Limpeza Fachada;DSDLim17_A;1;Limpeza Fachada;Geral;dsd;A;DSDLim17_A;Geral;Limpeza Fachada
+I;Mangueiras;Incêndio;Mangueiras;DSDMan18_A;1;Mangueiras;Geral;dsd;A;DSDMan18_A;Geral;Mangueiras
+I;Metais, acessórios e registros;Hidráulica;Metais, acessórios e registros;DSDMet19_A;1;Metais, acessórios e registros;Geral;dsd;A;DSDMet19_A;Geral;Metais, acessórios e registros
+I;Nobreaks;Eletrica;Nobreak BMS;DSDNob20_A;1;Nobreaks;Geral;dsd;A;DSDNob20_A;Geral;Nobreaks
+I;Pintura;Civil;Pintura;DSDPin21_A;1;Pintura;Geral;dsd;A;DSDPin21_A;Geral;Pintura
+I;Porta corta-fogo;Incêndio;Porta corta-fogo;DSDPor22_T;1;Porta corta-fogo;Geral;dsd;T;DSDPor22_T;Geral;Porta corta-fogo
+I;Automação de portões;automacao;Portas Automáticas;DSDPor23_M;1;Automação de portões;Geral;dsd;M;DSDPor23_M;Geral;Automação de portões
+I;Pressurização de escada;Incêndio;Pressurização de escada;DSDPre24_M;1;Pressurização de escada;Geral;dsd;M;DSDPre24_M;Geral;Pressurização de escada
+I;Quadro de distribuição de circuitos;Eletrica;Quadro bombas de esgoto;DSDQua25_A;1;Quadro de distribuição de circuitos;3º Subsolo;dsd;A;DSDQua25_A;3º Subsolo;Quadro de distribuição de circuitos
+I;Ralos, grelhas, calhas e canaletas;Hidráulica;Ralos, grelhas, calhas e canaletas;DSDRal26_M;1;Ralos, grelhas, calhas e canaletas;Geral;dsd;M;DSDRal26_M;Geral;Ralos, grelhas, calhas e canaletas
+I;Registros de água e incêndio;Hidráulica;Registros de água e incêndio;DSDReg27_S;1;Registros de água e incêndio;Geral;dsd;S;DSDReg27_S;Geral;Registros de água e incêndio
+I;Rejuntamento e vedações;Civil;Rejuntamento e vedações;DSDRej28_A;1;Rejuntamento e vedações;Geral;dsd;A;DSDRej28_A;Geral;Rejuntamento e vedações
+I;Reservatórios de água potável;Hidráulica;Reservatório Superior;DSDRes29_S;1;Reservatórios de água potável;Cobertura;dsd;S;DSDRes29_S;Cobertura;Reservatórios de água potável
+I;Revestimentos Cerâmicos, Mármores e Granitos;Civil;Revestimentos Cerâmicos, Mármores e Granitos;DSDRev30_A;1;Revestimentos Cerâmicos, Mármores e Granitos;Geral;dsd;A;DSDRev30_A;Geral;Revestimentos Cerâmicos, Mármores e Granitos
+I;Rondas Diárias;Rotinas;Rondas Diárias;DSDRon31_;1;Rondas Diárias;Geral;dsd;;DSDRon31_;Geral;Rondas Diárias
+I;Sistema de Hidrantes e SPK;Incêndio;Sistema de Hidrantes e SPK;DSDSis32_M;1;Sistema de Hidrantes e SPK;Geral;dsd;M;DSDSis32_M;Geral;Sistema de Hidrantes e SPK
+I;Sistema de Incêndio;Incêndio;Sistema de Incêndio;DSDSis33_T;1;Sistema de Incêndio;Geral;dsd;T;DSDSis33_T;Geral;Sistema de Incêndio
+I;Sistema de irrigação;Jardim;Sistema de irrigação;DSDSis34_S;1;Sistema de irrigação;Geral;dsd;S;DSDSis34_S;Geral;Sistema de irrigação
+I;SPDA;Civil;SPDA;DSDSPD35_A;1;SPDA;Geral;dsd;A;DSDSPD35_A;Geral;SPDA
+I;Tomadas, interruptores e pontos de luz;Eletrica;Tomadas, interruptores e pontos de luz;DSDTom36_A;1;Tomadas, interruptores e pontos de luz;Geral;dsd;A;DSDTom36_A;Geral;Tomadas, interruptores e pontos de luz
+I;Tubulações;Hidráulica;Tubulações;DSDTub37_A;1;Tubulações;Geral;dsd;A;DSDTub37_A;Geral;Tubulações
+I;Válvulas redutoras de pressão;Hidráulica;Válvulas redutoras de pressão;DSDVá38_S;1;Válvulas redutoras de pressão;Geral;dsd;S;DSDVá38_S;Geral;Válvulas redutoras de pressão
+I;Ventokit;Ventilação;Ventokit Banheiro Feminino Funcionários;DSDVen39_A;1;Ventokit;Geral;dsd;A;DSDVen39_A;Geral;Ventokit
+I;Vidros e seus sistemas de fixação;Civil;Vidros;DSDVid40_A;1;Vidros e seus sistemas de fixação;Geral;dsd;A;DSDVid40_A;Geral;Vidros e seus sistemas de fixação

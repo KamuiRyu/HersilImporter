@@ -1,0 +1,40 @@
+Identificação;Tipo;Pavimento;Periodicidade
+Ancoragem;Ancoragem;Cobertura;Anual
+Barrilete;Barrilete;Barrilete;Mensal
+Bomba Esgoto 1;Bombas de água e esgoto;3º Subsolo;Mensal
+Bomba Jockey;Bombas de incêndio;Barrilete;Mensal
+Casa de Máquinas elevadores;Casa de Máquinas;Cobertura;Mensal
+Porta 1 Subsolo;Catracas;1º Subsolo;Mensal
+Dedetização e desratização;Dedetização e desratização;Geral;Anual
+Elevador A;Elevadores;Geral;Mensal
+Esquadrias;Esquadrias;Geral;Anual
+Exaustor Subsolo A;Ventiladores e Exaustores;3º Subsolo;Mensal
+Extintores;Extintores;Geral;Anual
+Gerador Área Comum;Grupo Gerador;1º Subsolo;Anual
+Iluminação de Emergência;Iluminação de emergência;Geral;Bimestral
+Impermeabilização;Impermeabilização;Geral;Anual
+Jardim;Jardim;Térreo;Mensal
+Limpeza Fachada;Limpeza Fachada;Geral;Anual
+Mangueiras;Mangueiras;Geral;Anual
+Metais, acessórios e registros;Metais, acessórios e registros;Geral;Anual
+Nobreak BMS;Nobreaks;Geral;Anual
+Pintura;Pintura;Geral;Anual
+Porta corta-fogo;Porta corta-fogo;Geral;Trimestral
+Portas Automáticas;Automação de portões;Geral;Mensal
+Pressurização de escada;Pressurização de escada;Geral;Mensal
+Quadro bombas de esgoto;Quadro de distribuição de circuitos;3º Subsolo;Anual
+Ralos, grelhas, calhas e canaletas;Ralos, grelhas, calhas e canaletas;Geral;Mensal
+Registros de água e incêndio;Registros de água e incêndio;Geral;Semestral
+Rejuntamento e vedações;Rejuntamento e vedações;Geral;Anual
+Reservatório Superior;Reservatórios de água potável;Cobertura;Semestral
+Revestimentos Cerâmicos, Mármores e Granitos;Revestimentos Cerâmicos, Mármores e Granitos;Geral;Anual
+Rondas Diárias;Rondas Diárias;Geral;Diárias
+Sistema de Hidrantes e SPK;Sistema de Hidrantes e SPK;Geral;Mensal
+Sistema de Incêndio;Sistema de Incêndio;Geral;Trimestral
+Sistema de irrigação;Sistema de irrigação;Geral;Semanal
+SPDA;SPDA;Geral;Anual
+Tomadas, interruptores e pontos de luz;Tomadas, interruptores e pontos de luz;Geral;Anual
+Tubulações;Tubulações;Geral;Anual
+Válvulas redutoras de pressão;Válvulas redutoras de pressão;Geral;Semestral
+Ventokit Banheiro Feminino Funcionários;Ventokit;Geral;Anual
+Vidros;Vidros e seus sistemas de fixação;Geral;Anual

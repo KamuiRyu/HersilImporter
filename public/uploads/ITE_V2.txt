@@ -1,0 +1,66 @@
+C
+command;subGroup;itemCategory;description;alternativeIdentifier;active;CF_equipamento;CF_LOCAL;CF_LOCAL_DO_ITEM;CF_Periodo;CF_TAG;CF_AREA;CF_tipo_eq
+I;Ancoragem;Civil;Ancoragem;SPTAnc1_A;1;Ancoragem;Cobertura;São Paulo Trade Building;A;SPTAnc1_A;Cobertura;Ancoragem
+I;Barrilete;Hidráulica;Barrilete;SPTBar2_M;1;Barrilete;Barrilete;São Paulo Trade Building;M;SPTBar2_M;Barrilete;Barrilete
+I;Bombas de água e esgoto;Hidráulica;Bomba Esgoto 1;SPTBom3_S;1;Bombas de água e esgoto;3º Subsolo;São Paulo Trade Building;S;SPTBom3_S;3º Subsolo;Bombas de água e esgoto
+I;Bombas de água e esgoto;Hidráulica;Bomba Esgoto 2;SPTBom4_S;1;Bombas de água e esgoto;3º Subsolo;São Paulo Trade Building;S;SPTBom4_S;3º Subsolo;Bombas de água e esgoto
+I;Bombas de incêndio;Incêndio;Bomba Jockey;SPTBom4_M;1;Bombas de incêndio;Barrilete;São Paulo Trade Building;M;SPTBom4_M;Barrilete;Bombas de incêndio
+I;Bombas de água e esgoto;Hidráulica;Bomba Pluvial 1;SPTBom6_S;1;Bombas de água e esgoto;3º Subsolo;São Paulo Trade Building;S;SPTBom6_S;3º Subsolo;Bombas de água e esgoto
+I;Bombas de água e esgoto;Hidráulica;Bomba Pluvial 1;SPTBom7_S;1;Bombas de água e esgoto;3º Subsolo;São Paulo Trade Building;S;SPTBom7_S;3º Subsolo;Bombas de água e esgoto
+I;Bombas de incêndio;Incêndio;Bomba Principal;SPTBom8_M;1;Bombas de incêndio;Barrilete;São Paulo Trade Building;M;SPTBom8_M;Barrilete;Bombas de incêndio
+I;Casa de Máquinas;Elevadores;Casa de Máquinas elevadores;SPTCas9_M;1;Casa de Máquinas;Cobertura;São Paulo Trade Building;M;SPTCas9_M;Cobertura;Casa de Máquinas
+I;Casa de Máquinas;Elevadores;Casa de máquinas exaustão;SPTCas10_M;1;Casa de Máquinas;3º Subsolo;São Paulo Trade Building;M;SPTCas10_M;3º Subsolo;Casa de Máquinas
+I;Catracas;automacao;Porta 1 Subsolo;SPTPor11_M;1;Catracas;1º Subsolo;São Paulo Trade Building;M;SPTPor11_M;1º Subsolo;Catracas
+I;Catracas;automacao;Porta 2 Subsolo;SPTPor12_M;1;Catracas;3º Subsolo;São Paulo Trade Building;M;SPTPor12_M;3º Subsolo;Catracas
+I;Catracas;automacao;Porta 3 Subsolo;SPTPor13_M;1;Catracas;2º Subsolo;São Paulo Trade Building;M;SPTPor13_M;2º Subsolo;Catracas
+I;Catracas;automacao;Catracas A Terreo;SPTCat14_M;1;Catracas;Térreo;São Paulo Trade Building;M;SPTCat14_M;Térreo;Catracas
+I;Catracas;automacao;Catracas B Terreo;SPTCat15_M;1;Catracas;Térreo;São Paulo Trade Building;M;SPTCat15_M;Térreo;Catracas
+I;Catracas;automacao;Catracas C Terreo;SPTCat16_M;1;Catracas;Térreo;São Paulo Trade Building;M;SPTCat16_M;Térreo;Catracas
+I;Dedetização e desratização;Civil;Dedetização e desratização;SPTDed17_A;1;Dedetização e desratização;Geral;São Paulo Trade Building;A;SPTDed17_A;Geral;Dedetização e desratização
+I;Elevadores;Elevadores;Elevador A;SPTEle18_M;1;Elevadores;Geral;São Paulo Trade Building;M;SPTEle18_M;Geral;Elevadores
+I;Elevadores;Elevadores;Elevador B;SPTEle19_M;1;Elevadores;Geral;São Paulo Trade Building;M;SPTEle19_M;Geral;Elevadores
+I;Elevadores;Elevadores;Elevador C;SPTEle20_M;1;Elevadores;Geral;São Paulo Trade Building;M;SPTEle20_M;Geral;Elevadores
+I;Elevadores;Elevadores;Elevador D;SPTEle21_M;1;Elevadores;Geral;São Paulo Trade Building;M;SPTEle21_M;Geral;Elevadores
+I;Esquadrias;Civil;Esquadrias;SPTEsq22_A;1;Esquadrias;Geral;São Paulo Trade Building;A;SPTEsq22_A;Geral;Esquadrias
+I;Ventiladores e Exaustores;Ventilação;Exaustor Subsolo A;SPTExa23_M;1;Ventiladores e Exaustores;3º Subsolo;São Paulo Trade Building;M;SPTExa23_M;3º Subsolo;Ventiladores e Exaustores
+I;Ventiladores e Exaustores;Ventilação;Exaustor Subsolo B;SPTExa24_M;1;Ventiladores e Exaustores;3º Subsolo;São Paulo Trade Building;M;SPTExa24_M;3º Subsolo;Ventiladores e Exaustores
+I;Extintores;Incêndio;Extintores;SPTExt25_A;1;Extintores;Geral;São Paulo Trade Building;A;SPTExt25_A;Geral;Extintores
+I;Grupo Gerador;Eletrica;Gerador Área Comum;SPTGer26_A;1;Grupo Gerador;1º Subsolo;São Paulo Trade Building;A;SPTGer26_A;1º Subsolo;Grupo Gerador
+I;Iluminação de emergência;Incêndio;Iluminação de Emergência;SPTIlu27_B;1;Iluminação de emergência;Geral;São Paulo Trade Building;B;SPTIlu27_B;Geral;Iluminação de emergência
+I;Impermeabilização;Civil;Impermeabilização;SPTImp28_A;1;Impermeabilização;Geral;São Paulo Trade Building;A;SPTImp28_A;Geral;Impermeabilização
+I;Jardim;Jardim;Jardim;SPTJar29_M;1;Jardim;Térreo;São Paulo Trade Building;M;SPTJar29_M;Térreo;Jardim
+I;Limpeza Fachada;Civil;Limpeza de fachada;SPTLim30_A;1;Limpeza de Fachada;Geral;São Paulo Trade Building;A;SPTLim30_A;Geral;Limpeza Fachada
+I;Mangueiras;Incêndio;Mangueiras;SPTMan31_A;1;Mangueiras;Geral;São Paulo Trade Building;A;SPTMan31_A;Geral;Mangueiras
+I;Metais, acessórios e registros;Hidráulica;Metais, acessórios e registros;SPTMet32_A;1;Metais, acessórios e registros;Geral;São Paulo Trade Building;A;SPTMet32_A;Geral;Metais, acessórios e registros
+I;Nobreaks;Eletrica;Nobreak BMS;SPTNob33_A;1;Nobreaks;Geral;São Paulo Trade Building;A;SPTNob33_A;Geral;Nobreaks
+I;Pintura;Civil;Pintura;SPTPin34_A;1;Pintura;Geral;São Paulo Trade Building;A;SPTPin34_A;Geral;Pintura
+I;Porta corta-fogo;Incêndio;Porta corta-fogo;SPTPor35_T;1;Porta corta-fogo;Geral;São Paulo Trade Building;T;SPTPor35_T;Geral;Porta corta-fogo
+I;Automação de portões;automacao;Portas Automáticas;SPTPor36_M;1;Automação de portões;Geral;São Paulo Trade Building;M;SPTPor36_M;Geral;Automação de portões
+I;Pressurização de escada;Incêndio;Pressurização de escada;SPTPre37_M;1;Pressurização de escada;Geral;São Paulo Trade Building;M;SPTPre37_M;Geral;Pressurização de escada
+I;Quadro de distribuição de circuitos;Eletrica;Quadro bombas de esgoto;SPTQua38_A;1;Quadro de distribuição de circuitos;3º Subsolo;São Paulo Trade Building;A;SPTQua38_A;3º Subsolo;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro da torre de resfriamento;SPTQua39_A;1;Quadro de distribuição de circuitos;Cobertura;São Paulo Trade Building;A;SPTQua39_A;Cobertura;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro de bombas ar condicionado;SPTQua40_A;1;Quadro de distribuição de circuitos;16º Subsolo;São Paulo Trade Building;A;SPTQua40_A;16º Subsolo;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro de distribuição geral;SPTQua41_A;1;Quadro de distribuição de circuitos;tèrreo;São Paulo Trade Building;A;SPTQua41_A;tèrreo;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro Iluminação 1º Subsolo;SPTQua42_A;1;Quadro de distribuição de circuitos;1º Subsolo;São Paulo Trade Building;A;SPTQua42_A;1º Subsolo;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro Iluminação 2º Subsolo;SPTQua43_A;1;Quadro de distribuição de circuitos;2º Subsolo;São Paulo Trade Building;A;SPTQua43_A;2º Subsolo;Quadro de distribuição de circuitos
+I;Quadro de distribuição de circuitos;Eletrica;Quadro Iluminação 3º Subsolo;SPTQua44_A;1;Quadro de distribuição de circuitos;3º Subsolo;São Paulo Trade Building;A;SPTQua44_A;3º Subsolo;Quadro de distribuição de circuitos
+I;Ralos, grelhas, calhas e canaletas;Hidráulica;Ralos, grelhas, calhas e canaletas;SPTRal45_M;1;Ralos, grelhas, calhas e canaletas;Geral;São Paulo Trade Building;M;SPTRal45_M;Geral;Ralos, grelhas, calhas e canaletas
+I;Registros de água e incêndio;Hidráulica;Registros de água e incêndio;SPTReg46_S;1;Registros de água e incêndio;Geral;São Paulo Trade Building;S;SPTReg46_S;Geral;Registros de água e incêndio
+I;Rejuntamento e vedações;Civil;Rejuntamento e vedações;SPTRej47_A;1;Rejuntamento e vedações;Geral;São Paulo Trade Building;A;SPTRej47_A;Geral;Rejuntamento e vedações
+I;Reservatórios de água potável;Hidráulica;Reservatório Superior;SPTRes48_S;1;Reservatórios de água potável;Cobertura;São Paulo Trade Building;S;SPTRes48_S;Cobertura;Reservatórios de água potável
+I;Reservatórios de água potável;Hidráulica;Reservatório Inferior;SPTRes49_S;1;Reservatórios de água potável;3º Subsolo;São Paulo Trade Building;S;SPTRes49_S;3º Subsolo;Reservatórios de água potável
+I;Revestimentos Cerâmicos, Mármores e Granitos;Civil;Revestimentos Cerâmicos, Mármores e Granitos;SPTRev50_A;1;Revestimentos Ceâmicos, Mármores e Granitos;Geral;São Paulo Trade Building;A;SPTRev50_A;Geral;Revestimentos Cerâmicos, Mármores e Granitos
+I;Rondas Diárias;Rotinas;Ronda;SPTRon51_D;1;Rondas Diárias;Geral;São Paulo Trade Building;D;SPTRon51_D;Geral;Rondas Diárias
+I;Cftv, sca, sai e bms;automacao;Sistema CFTV;SPTSis52_M;1;Dados, informática, voz, telefonia, video, TV, CFTV e segurança perimetral;Geral;São Paulo Trade Building;M;SPTSis52_M;Geral;Cftv, sca, sai e bms
+I;Cftv, sca, sai e bms;automacao;Sistema Controle de Acesso;SPTSis53_M;1;Dados, informática, voz, telefonia, video, TV, CFTV e segurança perimetral;Geral;São Paulo Trade Building;M;SPTSis53_M;Geral;Cftv, sca, sai e bms
+I;Sistema de Hidrantes e SPK;Incêndio;Sistema de Hidrantes e SPK;SPTSis54_M;1;Sistema de Hidrantes e SPK;Geral;São Paulo Trade Building;M;SPTSis54_M;Geral;Sistema de Hidrantes e SPK
+I;Sistema de Incêndio;Incêndio;Sistema de Incêndio;SPTSis55_T;1;Sistema de Incêndio;Geral;São Paulo Trade Building;T;SPTSis55_T;Geral;Sistema de Incêndio
+I;Sistema de irrigação;Jardim;Sistema de irrigação;SPTSis56_SE;1;Sistema de irrigação;Geral;São Paulo Trade Building;SE;SPTSis56_SE;Geral;Sistema de irrigação
+I;SPDA;Civil;SPDA;SPTSPD57_A;1;SPDA;Geral;São Paulo Trade Building;A;SPTSPD57_A;Geral;SPDA
+I;Tomadas, interruptores e pontos de luz;Eletrica;Tomadas, interruptores e pontos de luz;SPTTom58_A;1;Tomadas, interruptores e pontos de luz;Geral;São Paulo Trade Building;A;SPTTom58_A;Geral;Tomadas, interruptores e pontos de luz
+I;Tubulações;Hidráulica;Tubulações;SPTTub59_A;1;Tubulações;Geral;São Paulo Trade Building;A;SPTTub59_A;Geral;Tubulações
+I;Válvulas redutoras de pressão;Hidráulica;Válvulas redutoras de pressão;SPTVál60_S;1;Válvulas redutoras de pressão;Geral;São Paulo Trade Building;S;SPTVál60_S;Geral;Válvulas redutoras de pressão
+I;Ventokit;Ventilação;Ventokit Banheiro Feminino Funcionários;SPTVen61_A;1;Ventokit;Geral;São Paulo Trade Building;A;SPTVen61_A;Geral;Ventokit
+I;Ventokit;Ventilação;Ventokit Banheiro Masculino Funcionários;SPTVen62_A;1;Ventokit;Geral;São Paulo Trade Building;A;SPTVen62_A;Geral;Ventokit
+I;Vidros e seus sistemas de fixação;Civil;Vidros;SPTVid63_A;1;Vidros e seus sistemas de fixação;Geral;São Paulo Trade Building;A;SPTVid63_A;Geral;Vidros e seus sistemas de fixação
+

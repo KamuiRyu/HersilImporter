@@ -1,0 +1,40 @@
+Identifica��o;Tipo;Pavimento;Periodicidade
+Ancoragem;Ancoragem;Cobertura;Anual
+Barrilete;Barrilete;Barrilete;Mensal
+Bomba Esgoto 1;Bombas de �gua e esgoto;3� Subsolo;Mensal
+Bomba Jockey;Bombas de inc�ndio;Barrilete;Mensal
+Casa de M�quinas elevadores;Casa de M�quinas;Cobertura;Mensal
+Porta 1 Subsolo;Catracas;1� Subsolo;Mensal
+Dedetiza��o e desratiza��o;Dedetiza��o e desratiza��o;Geral;Anual
+Elevador A;Elevadores;Geral;Mensal
+Esquadrias;Esquadrias;Geral;Anual
+Exaustor Subsolo A;Ventiladores e Exaustores;3� Subsolo;Mensal
+Extintores;Extintores;Geral;Anual
+Gerador �rea Comum;Grupo Gerador;1� Subsolo;Anual
+Ilumina��o de Emerg�ncia;Ilumina��o de emerg�ncia;Geral;Bimestral
+Impermeabiliza��o;Impermeabiliza��o;Geral;Anual
+Jardim;Jardim;T�rreo;Mensal
+Limpeza Fachada;Limpeza Fachada;Geral;Anual
+Mangueiras;Mangueiras;Geral;Anual
+Metais, acess�rios e registros;Metais, acess�rios e registros;Geral;Anual
+Nobreak BMS;Nobreaks;Geral;Anual
+Pintura;Pintura;Geral;Anual
+Porta corta-fogo;Porta corta-fogo;Geral;Trimestral
+Portas Autom�ticas;Automa��o de port�es;Geral;Mensal
+Pressuriza��o de escada;Pressuriza��o de escada;Geral;Mensal
+Quadro bombas de esgoto;Quadro de distribui��o de circuitos;3� Subsolo;Anual
+Ralos, grelhas, calhas e canaletas;Ralos, grelhas, calhas e canaletas;Geral;Mensal
+Registros de �gua e inc�ndio;Registros de �gua e inc�ndio;Geral;Semestral
+Rejuntamento e veda��es;Rejuntamento e veda��es;Geral;Anual
+Reservat�rio Superior;Reservat�rios de �gua pot�vel;Cobertura;Semestral
+Revestimentos Cer�micos, M�rmores e Granitos;Revestimentos Cer�micos, M�rmores e Granitos;Geral;Anual
+Rondas Di�rias;Rondas Di�rias;Geral;
+Sistema de Hidrantes e SPK;Sistema de Hidrantes e SPK;Geral;Mensal
+Sistema de Inc�ndio;Sistema de Inc�ndio;Geral;Trimestral
+Sistema de irriga��o;Sistema de irriga��o;Geral;Semanal
+SPDA;SPDA;Geral;Anual
+Tomadas, interruptores e pontos de luz;Tomadas, interruptores e pontos de luz;Geral;Anual
+Tubula��es;Tubula��es;Geral;Anual
+V�lvulas redutoras de press�o;V�lvulas redutoras de press�o;Geral;Semestral
+Ventokit Banheiro Feminino Funcion�rios;Ventokit;Geral;Anual
+Vidros;Vidros e seus sistemas de fixa��o;Geral;Anual
