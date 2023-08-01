@@ -10,6 +10,7 @@ class Excel extends Controller
 {
     public function upload(Request $request)
     {
+        header('Content-Type: text/html; charset=utf-8');
         $file = $request->file('sheet');
         if (!empty($request->input("predio"))) {
             $predio = $request->input("predio");
@@ -55,13 +56,22 @@ class Excel extends Controller
             unset($csv[0]);
             $csv = array_values($csv);
             foreach ($csv as $datacsv) {
-                $alt = $datacsv[0];
-                $tipo = $datacsv[1];
-                $pavi = $datacsv[2];
-                $peri = $datacsv[3];
-                $importITE[$con] = Excel::fnITE($predio, $alt, $tipo, $pavi, $peri, $con, $local);
-                $importISA[$con] = Excel::fnISA($predio, $alt, $tipo, $pavi, $peri, $con, $local);
-                $con++;
+                if($datacsv[0] != ""){
+                    $alt = $datacsv[0];
+                    $tipo = $datacsv[1];
+                    $pavi = $datacsv[2];
+                    $peri = $datacsv[3];
+                    $predio = utf8_encode($predio);
+                    $alt = utf8_encode($alt);
+                    $tipo = utf8_encode($tipo);
+                    $pavi = utf8_encode($pavi);
+                    $peri = utf8_encode($peri);
+                    $con = utf8_encode($con);
+                    $local = utf8_encode($local);
+                    $importITE[$con] = Excel::fnITE($predio, $alt, $tipo, $pavi, $peri, $con, $local);
+                    $importISA[$con] = Excel::fnISA($predio, $alt, $tipo, $pavi, $peri, $con, $local);
+                    $con++;
+                }
             }
 
 
@@ -75,6 +85,7 @@ class Excel extends Controller
         $command = "I";
         $subGroup = $tipo;
         $itemCategory = "";
+        $tipo = utf8_encode($tipo);
         switch ($tipo) {
             case "Ancoragem":
                 $itemCategory = "Civil";
@@ -86,7 +97,7 @@ class Excel extends Controller
                 $itemCategory = "Hidráulica";
                 break;
             case "Bombas de água e esgoto":
-                $itemCategory = "Hidráulica";
+                $itemCategory = "Hidráulica";;
                 break;
             case "Bombas de incêndio":
                 $itemCategory = "Incêndio";
@@ -213,8 +224,8 @@ class Excel extends Controller
                 break;
         }
         $descp = $alt;
-        $peri = trim($peri);
-        if ($peri === "Semanal") {
+        $peri = strtoupper(trim($peri));
+        if ($peri === "SEMANAL") {
             $periodicidade = "Se";
         } else {
             $periodicidade = strtoupper(substr($peri, 0, 1));
@@ -236,9 +247,10 @@ class Excel extends Controller
         $command = "I";
         $active = 1;
         $order = 1;
-        $peri = trim($peri);
-        if ($peri === "Semanal") {
-            $periodicidade = substr($peri, 0, 2);
+        $peri = strtoupper(trim($peri));
+        $tipo = utf8_encode($tipo);
+        if ($peri === "SEMANAL") {
+            $periodicidade = "Se";
         } else {
             $periodicidade = strtoupper(substr($peri, 0, 1));
         }
