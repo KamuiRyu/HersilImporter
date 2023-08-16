@@ -61,20 +61,18 @@ class Excel extends Controller
                     $tipo = $datacsv[1];
                     $pavi = $datacsv[2];
                     $peri = $datacsv[3];
-                    $predio = utf8_encode($predio);
-                    $alt = utf8_encode($alt);
-                    $tipo = utf8_encode($tipo);
-                    $pavi = utf8_encode($pavi);
-                    $peri = utf8_encode($peri);
-                    $con = utf8_encode($con);
-                    $local = utf8_encode($local);
+                    $predio = mb_convert_encoding($predio, 'UTF-8');
+                    $alt = mb_convert_encoding($alt, 'UTF-8');
+                    $tipo = mb_convert_encoding($tipo, 'UTF-8');
+                    $pavi = mb_convert_encoding($pavi, 'UTF-8');
+                    $peri = mb_convert_encoding($peri, 'UTF-8');
+                    $con = mb_convert_encoding($con, 'UTF-8');
+                    $local = mb_convert_encoding($local, 'UTF-8');
                     $importITE[$con] = Excel::fnITE($predio, $alt, $tipo, $pavi, $peri, $con, $local);
                     $importISA[$con] = Excel::fnISA($predio, $alt, $tipo, $pavi, $peri, $con, $local);
                     $con++;
                 }
             }
-
-
             $f = array(Excel::fileCSV($importITE, $filename = "ITE_V2.txt"),  Excel::fileCSV($importISA, $filename = "ISA_V2.txt"));
             Excel::createZipFile($f, $fileNameDownload = "importHersil");
         }
@@ -85,7 +83,6 @@ class Excel extends Controller
         $command = "I";
         $subGroup = $tipo;
         $itemCategory = "";
-        $tipo = utf8_encode($tipo);
         switch ($tipo) {
             case "Ancoragem":
                 $itemCategory = "Civil";
@@ -248,7 +245,6 @@ class Excel extends Controller
         $active = 1;
         $order = 1;
         $peri = strtoupper(trim($peri));
-        $tipo = utf8_encode($tipo);
         if ($peri === "SEMANAL") {
             $periodicidade = "Se";
         } else {
@@ -256,7 +252,6 @@ class Excel extends Controller
         }
         $any = $tipo . "_" . $periodicidade;
         $section = "";
-
         switch ($any) {
             case "Ancoragem_A":
                 $section = "ANCORAGEM_VERIFICACOES_ANUAL";
@@ -505,5 +500,6 @@ class Excel extends Controller
         header("Pragma: no-cache");
         header("Expires: 0");
         readfile("$fileName.zip");
+        unlink("$fileName.zip");
     }
 }
